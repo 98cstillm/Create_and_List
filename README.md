@@ -1,2 +1,2 @@
-# Create_and_List
+# Scan_and_Grab
 Student-made port scanner for CYB333! 
